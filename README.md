@@ -41,6 +41,8 @@ app.listen(3000, () =>{
 </div>
 
    ##
+
+   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
    
 <div>
     <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
