@@ -4,7 +4,7 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-14.gif" />
+<img align="right" width="300" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif" />
 
 ```javascript
 const express = require('express')
